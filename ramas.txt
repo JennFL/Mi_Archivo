@@ -1,0 +1,24 @@
+¿Qué es una rama?
+Son cada uno de los cambios o versiones que se crean para un proyecto. Estas parten de la rama main y de allí son vinculadas nuevamente a ella si son aprobados. 
+
+¿Para que sirven las ramas?
+Son fundamentales a la hora de trabajo grupal en un proyecto, cada programador puede hacer cambios o nuevas versiones de este sin alterarlo. Y agregarlas cuando sean aprobadas.
+
+¿Cuál es la rama predeterminada?
+Es la rama que Github muestra cuando alguien visita el repositorio, también es la usada cuando alguien clona el repositorio.
+
+¿Como enumeramos las ramas?
+Luego de abrir la carpeta de trabajo en git podemos ver el listado de nuestras ramas utilizando el comando git Branch. La rama mostrada con un color diferente al resto es la rama en la cual estamos trabajando en ese momento. 
+ 
+
+¿Como creamos una nueva rama?
+Luego de abrir la carpeta de trabajo donde deseamos crear la rama en git podemos crear una rama a partir del comando git branch nombre, el nombre indica el nombre que deseamos darle a la rama.
+ 
+
+
+¿Como eliminamos una rama?
+Luego de abrir la carpeta de trabajo donde deseamos crear la rama en git podemos eliminar una rama con el comando git Branch -d nombre, el nombre indica el nombre de la rama que deseamos eliminar.
+ 
+
+¿Como le cambiamos el nombre a una rama?
+Luego de abrir la carpeta de trabajo donde en git y estar trabajando en la rama a la cual queremos cambiarle el nombre utilizamos el comando git branch -m nombre, el nombre indica el nuevo nombre que le queremos dar a la rama. 
